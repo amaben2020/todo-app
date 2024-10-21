@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+
+git remote set-url origin https://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@github.com/amaben2020/todo-app.git
